@@ -1,0 +1,161 @@
+/*  ПОДКЛЮЧАЕМ NORMALIZE.CSS  */
+@import url(../reset/normalize.css);
+
+/* ПОДКЛЮЧАЕМ ШРИФТЫ  */
+@import url(../Fonts/fonts.css);
+
+/* ПОДКЛЮЧАЕМ BODY  */
+@import url(../blocks/body/body.css);
+
+/* ПОДКЛЮЧАЕМ PAGE  */
+@import url(../blocks/page/page.css);
+
+
+/* ==========SECTION HEADER================== */
+/* ПОДКЛЮЧАЕМ HEADER  */
+@import url(../blocks/header/header.css);
+
+/* ПОДКЛЮЧАЕМ MENU  */
+@import url(../blocks/menu/menu.css);
+
+/* ПОДКЛЮЧАЕМ MENU__LOGO  */
+@import url(../blocks/menu/__logo/menu__logo.css);
+
+/* ПОДКЛЮЧАЕМ MENU__LIST  */
+@import url(../blocks/menu/__list/menu__list.css);
+
+/* ПОДКЛЮЧАЕМ MENU__ITEM  */
+@import url(../blocks/menu/__item/menu__item.css);
+
+/* ПОДКЛЮЧАЕМ MENU__ITEM_ACTIVE  */
+@import url(../blocks/menu/__item/_active/menu__item_active.css);
+
+/* ПОДКЛЮЧАЕМ TITLE  */
+@import url(../blocks/title/title.css);
+
+/* ПОДКЛЮЧАЕМ SUBTITLE  */
+@import url(../blocks/subtitle/subtitle.css);
+
+
+/* =============SECTION BG-IMAGE======================= */
+/* ПОДКЛЮЧАЕМ BG-IMAGE  */
+@import url(../blocks/bg-image/bg-image.css);
+
+/* ПОДКЛЮЧАЕМ  BG-WINDOW-TRAIN */
+@import url(../blocks/bg-window-train/bg-window-train.css);
+
+/* ПОДКЛЮЧАЕМ CAPTION  */
+@import url(../blocks/caption/caption.css);
+
+
+/* ===============SECTION INTRO=========================== */
+/* ПОДКЛЮЧАЕМ INTRO  */
+@import url(../blocks/intro/intro.css);
+
+/* ПОДКЛЮЧАЕМ PROLOGUE  */
+@import url(../blocks/prologue/prologue.css);
+
+/* ПОДКЛЮЧАЕМ PROLOGUE__TITLE  */
+@import url(../blocks/prologue/__title/prologue__title.css);
+
+/* ПОДКЛЮЧАЕМ PROLOGUE__TEXT  */
+@import url(../blocks/prologue/__text/prologue__text.css);
+
+/* ПОДКЛЮЧАЕМ PROLOGUE__DESCRIPTION  */
+@import url(../blocks/prologue/__description/prologue__description.css);
+
+
+
+/* ===============SECTION PHOTO=========================== */
+/* ПОДКЛЮЧАЕМ PHOTO  */
+@import url(../blocks/photo/photo.css);
+
+/* ПОДКЛЮЧАЕМ GRID-PHOTO  */
+@import url(../blocks/grid-photo/grid-photo.css);
+
+/* ПОДКЛЮЧАЕМ GRID-PHOTO__IMAGE  */
+@import url(../blocks/grid-photo/__image/grid-photo__image.css);
+
+
+
+/* ===============SECTION PLACES=========================== */
+/* ПОДКЛЮЧАЕМ PLACES  */
+@import url(../blocks/places/places.css);
+
+/* ПОДКЛЮЧАЕМ PLACE  */
+@import url(../blocks/place/place.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__COLUMN-LEFT  */
+@import url(../blocks/place/__column-left/place__column-left.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__TITLE  */
+@import url(../blocks/place/__title/place__title.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__PIC  */
+@import url(../blocks/place/__pic/place__pic.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__ARTICLE  */
+@import url(../blocks/place/__article/place__article.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__URL  */
+@import url(../blocks/place/__url/place__url.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__LINK  */
+@import url(../blocks/place/__link/place__link.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__PARAGRAPH  */
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__PARAGRAPH  */
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__URL-MOBAIL  */
+@import url(../blocks/place/__url-mobail/place__url-mobail.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__URL-LINK  */
+@import url(../blocks/place/__link-mobile/place__link-mobile.css);
+
+
+/* ===============SECTION COVER=========================== */
+/* ПОДКЛЮЧАЕМ COVER  */
+@import url(../blocks/cover/cover.css);
+
+/* ПОДКЛЮЧАЕМ OVERLAY-LINK  */
+@import url(../blocks/overlay-link/overlay-link.css);
+
+/* ПОДКЛЮЧАЕМ OVERLAY  */
+@import url(../blocks/overlay/overlay.css);
+
+/* ПОДКЛЮЧАЕМ OVERLAY-TITLE  */
+@import url(../blocks/overlay/__title/overlay__title.css);
+
+/* ПОДКЛЮЧАЕМ OVERLAY-SUBTITLE  */
+@import url(../blocks/overlay/__subtitle/overlay__subtitle.css);
+
+
+/* ===============SECTION FOOTER=========================== */
+/* ПОДКЛЮЧАЕМ FOOTER  */
+@import url(../blocks/footer/footer.css);
+
+/* ПОДКЛЮЧАЕМ NAV  */
+@import url(../blocks/nav/nav.css);
+
+/* ПОДКЛЮЧАЕМ NAV-LIST  */
+@import url(../blocks/nav/__list/nav__list.css);
+
+/* ПОДКЛЮЧАЕМ NAV-ITEM  */
+@import url(../blocks/nav/__item/nav__item.css);
+
+/* ПОДКЛЮЧАЕМ NAV-LINK  */
+@import url(../blocks/nav/__link/nav__link.css);
+
+/* ПОДКЛЮЧАЕМ NAV-AUTHOR  */
+@import url(../blocks/nav/__author/nav__author.css);
+
+
+
+
+
+
+
+

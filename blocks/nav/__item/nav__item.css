@@ -1,0 +1,10 @@
+/* .nav__item {
+} */
+.nav__item:not(:last-child) {
+   margin: 0 18px 0 0;
+}
+@media all and (max-width: 540px) {
+   .nav__item:not(:last-child) {
+      margin: 0 0 32px;
+   }  
+}

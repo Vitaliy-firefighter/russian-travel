@@ -1,0 +1,18 @@
+.bg-image {
+   padding: 0 148px 92px;
+}
+@media all and (max-width: 1024px) {
+   .bg-image {
+      padding: 0 48px 92px;
+   }
+}
+@media all and (max-width: 768px) {
+   .bg-image {
+      padding: 0 0 88px;
+   }
+}
+@media all and (max-width: 452px) {
+   .bg-image {
+      padding: 0 0 64px;
+   }
+}

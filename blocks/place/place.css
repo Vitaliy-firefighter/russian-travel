@@ -1,0 +1,13 @@
+.place {
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+}
+@media all and (max-width: 620px) {
+   .place {
+      flex-direction: column;
+   }
+}
+.place:not(:last-child) {
+   margin: 0 0 80px;
+}

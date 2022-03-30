@@ -1,0 +1,18 @@
+.place__url-mobail {
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 100%;
+   letter-spacing: 0.2em;
+   color: #AAAAAA;
+   margin: 0 0 12px;
+}
+@media all and (min-width: 621px) {
+   .place__url-mobail {
+      display: none;
+   }
+}
+@media all and (max-width: 452px) {
+   .place__url-mobail {
+      margin: 0 0 12px 16px;
+   }
+}

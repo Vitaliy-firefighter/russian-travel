@@ -1,0 +1,19 @@
+.title {
+   max-width: 720px;
+   font-weight: 900;
+   font-size: 96px;
+   line-height: 104%;
+   text-align: center;
+   margin: 0 auto 32px;
+}
+@media all and (max-width: 708px) {
+   .title {
+      font-size: 60px;
+   }
+}
+@media all and (max-width: 452px) {
+   .title {
+      font-size: 40px;
+      margin: 0 auto 16px;
+   }
+}

@@ -1,0 +1,8 @@
+.place__pic {
+   width: 100%;
+}
+@media all and (max-width: 620px) {
+   .place__pic {
+      margin: 0 0 32px;
+   }
+}

@@ -1,0 +1,13 @@
+.place__link {
+   display: inline-block;
+   margin: 0 0 48px;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 122%;
+   color: #fff;
+}
+@media all and (max-width: 620px) {
+   .place__link {
+      display: none;
+   }
+}

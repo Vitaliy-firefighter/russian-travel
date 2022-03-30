@@ -1,0 +1,14 @@
+.bg-window-train {
+   max-width: 100%;
+   background-image: url(../../images/bg-image/bg-image.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+   background-position: center center;
+   padding-bottom: 62%;
+   margin: 0 auto 11px;
+}
+@media all and (max-width: 1024px) {
+   .bg-window-train {
+      margin: 0 auto 8px;
+   }
+}

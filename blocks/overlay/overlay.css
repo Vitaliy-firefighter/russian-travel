@@ -18,13 +18,14 @@
    content: "";
    width: 100%;
    background-color: rgba(42, 44, 47, 1);
-   padding-bottom: 83%;
+   padding-bottom: 90%;
    position: absolute;
    top: 0;
    left: 0;
    z-index: 1;
    opacity: 0.3;
    transition: opacity .3s;
+   box-sizing: border-box;
 }
 .overlay:hover:before {
    opacity: .8;

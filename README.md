@@ -17,5 +17,5 @@
 * семантика тегов
 
 
-1. [Путешествие по России](https://vitaliyza.github.io/russian-travel/)
+1. [Путешествие по России](https://vitaliy-firefighter.github.io/russian-travel/)
 

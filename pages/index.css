@@ -1,6 +1,9 @@
 /*  ПОДКЛЮЧАЕМ NORMALIZE.CSS  */
 @import url(../reset/normalize.css);
 
+/*  ПОДКЛЮЧАЕМ RESET.CSS  */
+@import url(../reset/reset.css);
+
 /* ПОДКЛЮЧАЕМ ШРИФТЫ  */
 @import url(../Fonts/fonts.css);
 

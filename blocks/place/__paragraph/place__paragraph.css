@@ -1,25 +1,15 @@
 .place__paragraph {
-   font-weight: 400;
-   font-size: 18px;
-   line-height: 163%;
-   margin: 0;
-   padding: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  margin: 0;
+  padding: 0;
 }
 @media all and (max-width: 832px) {
-   .place__paragraph {
-      font-size: 16px;
-   }
-}
-@media all and (max-width: 452px) {
-   .place__paragraph {
-      margin: 0 16px 0;
-   }
+  .place__paragraph {
+    font-size: 16px;
+  }
 }
 .place__paragraph:not(:last-child) {
-   margin: 0 0 26px;
-}
-@media all and (max-width: 452px) {
-   .place__paragraph:not(:last-child) {
-      margin: 0 16px 25px;
-   }
+  margin: 0 0 26px;
 }

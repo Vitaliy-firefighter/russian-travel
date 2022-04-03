@@ -1,68 +1,75 @@
 /*  ПОДКЛЮЧАЕМ NORMALIZE.CSS  */
-@import url(../reset/normalize.css);
+@import url(../vendor/normalize.css);
 
 /* ПОДКЛЮЧАЕМ ШРИФТЫ  */
-@import url(../Fonts/fonts.css);
-
-/* ПОДКЛЮЧАЕМ BODY  */
-@import url(../blocks/body/body.css);
+@import url(../vendor/Fonts/fonts.css);
 
 /* ПОДКЛЮЧАЕМ PAGE  */
 @import url(../blocks/page/page.css);
+
+/* ПОДКЛЮЧАЕМ PAGE__CONTAINER  */
+@import url(../blocks/page/__container/page__container.css);
 
 
 /* ==========SECTION HEADER================== */
 /* ПОДКЛЮЧАЕМ HEADER  */
 @import url(../blocks/header/header.css);
 
-/* ПОДКЛЮЧАЕМ MENU  */
-@import url(../blocks/menu/menu.css);
+/* ПОДКЛЮЧАЕМ HEADER__LOGO  */
+@import url(../blocks/header/__logo/header__logo.css);
 
-/* ПОДКЛЮЧАЕМ MENU__LOGO  */
-@import url(../blocks/menu/__logo/menu__logo.css);
+/* ПОДКЛЮЧАЕМ HEADER__LIST  */
+@import url(../blocks/header/__list/header__list.css);
 
-/* ПОДКЛЮЧАЕМ MENU__LIST  */
-@import url(../blocks/menu/__list/menu__list.css);
+/* ПОДКЛЮЧАЕМ HEADER__ITEM  */
+@import url(../blocks/header/__item/header__item.css);
 
-/* ПОДКЛЮЧАЕМ MENU__ITEM  */
-@import url(../blocks/menu/__item/menu__item.css);
+/* ПОДКЛЮЧАЕМ HEADER__LINK  */
+@import url(../blocks/header/__link/header__link.css);
 
-/* ПОДКЛЮЧАЕМ MENU__ITEM_ACTIVE  */
-@import url(../blocks/menu/__item/_active/menu__item_active.css);
-
-/* ПОДКЛЮЧАЕМ TITLE  */
-@import url(../blocks/title/title.css);
-
-/* ПОДКЛЮЧАЕМ SUBTITLE  */
-@import url(../blocks/subtitle/subtitle.css);
+/* ПОДКЛЮЧАЕМ HEADER__ITEM_ACTIVE  */
+@import url(../blocks/header/__link/_active/header__link_active.css);
 
 
-/* =============SECTION BG-IMAGE======================= */
-/* ПОДКЛЮЧАЕМ BG-IMAGE  */
-@import url(../blocks/bg-image/bg-image.css);
+/* ==========SECTION LEAD================== */
+/* ПОДКЛЮЧАЕМ LEAD  */
+@import url(../blocks/lead/lead.css);
 
-/* ПОДКЛЮЧАЕМ  BG-WINDOW-TRAIN */
-@import url(../blocks/bg-window-train/bg-window-train.css);
+/* ПОДКЛЮЧАЕМ LEAD__TITLE  */
+@import url(../blocks/lead/__title/lead__title.css);
 
-/* ПОДКЛЮЧАЕМ CAPTION  */
-@import url(../blocks/caption/caption.css);
+/* ПОДКЛЮЧАЕМ LEAD__SUBTITLE  */
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+
+/* ПОДКЛЮЧАЕМ LEAD__IMAGE  */
+@import url(../blocks/lead/__image/lead__image.css);
+
+/* ПОДКЛЮЧАЕМ LEAD__CAPTION  */
+@import url(../blocks/lead/__caption/lead__caption.css);
+
 
 
 /* ===============SECTION INTRO=========================== */
 /* ПОДКЛЮЧАЕМ INTRO  */
 @import url(../blocks/intro/intro.css);
 
-/* ПОДКЛЮЧАЕМ PROLOGUE  */
-@import url(../blocks/prologue/prologue.css);
+/* ПОДКЛЮЧАЕМ INTRO__ARTICLE  */
+@import url(../blocks/intro/__article/intro__article.css);
 
-/* ПОДКЛЮЧАЕМ PROLOGUE__TITLE  */
-@import url(../blocks/prologue/__title/prologue__title.css);
+/* ПОДКЛЮЧАЕМ INTRO__TITLE  */
+@import url(../blocks/intro/__title/intro__title.css);
 
-/* ПОДКЛЮЧАЕМ PROLOGUE__TEXT  */
-@import url(../blocks/prologue/__text/prologue__text.css);
+/* ПОДКЛЮЧАЕМ INTRO__TEXT  */
+@import url(../blocks/intro/__text/intro__text.css);
 
-/* ПОДКЛЮЧАЕМ PROLOGUE__DESCRIPTION  */
-@import url(../blocks/prologue/__description/prologue__description.css);
+/* ПОДКЛЮЧАЕМ INTRO__LIST  */
+@import url(../blocks/intro/__list/intro__list.css);
+
+/* ПОДКЛЮЧАЕМ INTRO__ACCENT  */
+@import url(../blocks/intro/__accent/intro__accent.css);
+
+/* ПОДКЛЮЧАЕМ INTRO__NUMBER  */
+@import url(../blocks/intro/__number/intro__number.css);
 
 
 
@@ -70,11 +77,11 @@
 /* ПОДКЛЮЧАЕМ PHOTO  */
 @import url(../blocks/photo/photo.css);
 
-/* ПОДКЛЮЧАЕМ GRID-PHOTO  */
-@import url(../blocks/grid-photo/grid-photo.css);
+/* ПОДКЛЮЧАЕМ PHOTO-GRID  */
+@import url(../blocks/photo-grid/photo-grid.css);
 
-/* ПОДКЛЮЧАЕМ GRID-PHOTO__IMAGE  */
-@import url(../blocks/grid-photo/__image/grid-photo__image.css);
+/* ПОДКЛЮЧАЕМ PHOTO-GRID__IMAGE  */
+@import url(../blocks/photo-grid/__image/photo-grid__image.css);
 
 
 
@@ -85,43 +92,33 @@
 /* ПОДКЛЮЧАЕМ PLACE  */
 @import url(../blocks/place/place.css);
 
-/* ПОДКЛЮЧАЕМ PLACE__COLUMN-LEFT  */
-@import url(../blocks/place/__column-left/place__column-left.css);
-
 /* ПОДКЛЮЧАЕМ PLACE__TITLE  */
 @import url(../blocks/place/__title/place__title.css);
 
-/* ПОДКЛЮЧАЕМ PLACE__PIC  */
-@import url(../blocks/place/__pic/place__pic.css);
+/* ПОДКЛЮЧАЕМ PLACE__WEBSITE  */
+@import url(../blocks/place/__website/place__website.css);
 
-/* ПОДКЛЮЧАЕМ PLACE__ARTICLE  */
-@import url(../blocks/place/__article/place__article.css);
-
-/* ПОДКЛЮЧАЕМ PLACE__URL  */
-@import url(../blocks/place/__url/place__url.css);
+/* ПОДКЛЮЧАЕМ PLACE__URL-HEADING  */
+@import url(../blocks/place/__url-heading/place____url-heading.css);
 
 /* ПОДКЛЮЧАЕМ PLACE__LINK  */
 @import url(../blocks/place/__link/place__link.css);
 
-/* ПОДКЛЮЧАЕМ PLACE__PARAGRAPH  */
-@import url(../blocks/place/__paragraph/place__paragraph.css);
+/* ПОДКЛЮЧАЕМ PLACE__IMAGE  */
+@import url(../blocks/place/__image/place__image.css);
+
+/* ПОДКЛЮЧАЕМ PLACE__PARAGRAPHS */
+@import url(../blocks/place/__paragraphs/place__paragraphs.css);
 
 /* ПОДКЛЮЧАЕМ PLACE__PARAGRAPH  */
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 
-/* ПОДКЛЮЧАЕМ PLACE__URL-MOBAIL  */
-@import url(../blocks/place/__url-mobail/place__url-mobail.css);
 
-/* ПОДКЛЮЧАЕМ PLACE__URL-LINK  */
-@import url(../blocks/place/__link-mobile/place__link-mobile.css);
 
 
 /* ===============SECTION COVER=========================== */
 /* ПОДКЛЮЧАЕМ COVER  */
 @import url(../blocks/cover/cover.css);
-
-/* ПОДКЛЮЧАЕМ OVERLAY-LINK  */
-@import url(../blocks/overlay-link/overlay-link.css);
 
 /* ПОДКЛЮЧАЕМ OVERLAY  */
 @import url(../blocks/overlay/overlay.css);

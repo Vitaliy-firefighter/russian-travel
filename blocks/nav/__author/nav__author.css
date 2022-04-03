@@ -1,17 +1,16 @@
 .nav__author {
-   font-weight: 400;
-   font-size: 14px;
-   line-height: 114%;
-   margin: 0;
-
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 114%;
+  margin: 0;
 }
 @media all and (max-width: 700px) {
-   .nav__author {
-      margin: 20px 0 0;
-   }
+  .nav__author {
+    margin: 20px 0 0;
+  }
 }
 @media all and (max-width: 540px) {
-   .nav__author {
-      margin: 0;
-   }
+  .nav__author {
+    margin: 0;
+  }
 }

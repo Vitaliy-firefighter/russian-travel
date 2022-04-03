@@ -1,17 +1,17 @@
 .overlay__title {
-   font-weight: 900;
-   font-size: 72px;
-   line-height: 106%;
-   text-align: center;
-   position: relative;
-   z-index: 2;
-   max-width: 560px;
-   margin: 0 0 32px;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 106%;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  max-width: 560px;
+  margin: 0 0 32px;
 }
 @media all and (max-width: 560px) {
-   .overlay__title {
-      font-size: 32px;
-      margin: 0 0 16px;
-      max-width: 240px;
-   } 
+  .overlay__title {
+    font-size: 32px;
+    margin: 0 0 16px;
+    max-width: 240px;
+  }
 }

@@ -1,0 +1,15 @@
+.header__list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 117%;
+  margin: 0;
+  padding: 0;
+}
+@media all and (max-width: 452px) {
+  .header__list {
+    font-size: 18px;
+  }
+}

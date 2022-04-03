@@ -1,13 +1,16 @@
 .place__link {
-   display: inline-block;
-   margin: 0 0 48px;
-   font-weight: 400;
-   font-size: 18px;
-   line-height: 122%;
-   color: #fff;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 122%;
+  color: #fff;
+  transition: opacity .2s;
 }
-@media all and (max-width: 620px) {
-   .place__link {
-      display: none;
-   }
+.place__link:hover {
+  opacity: .3;
+}
+.place__link:focus {
+  outline: none;
+  color: rgba(255, 255, 255, .3);
+  border: 1px solid #fff;
+  border-radius: 5px;
 }

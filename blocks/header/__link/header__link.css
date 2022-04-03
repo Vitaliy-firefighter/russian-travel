@@ -1,0 +1,14 @@
+.header__link {
+  color: #fff;
+  text-decoration: none;
+  transition: opacity .2s;
+}
+.header__link:hover {
+  opacity: .5;
+}
+.header__link:focus {
+  color: rgb(255,255,255, .3);
+  outline: none;
+  border: 1px solid #fff;
+  border-radius: 4px;
+}

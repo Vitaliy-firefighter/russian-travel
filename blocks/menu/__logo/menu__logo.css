@@ -1,9 +1,0 @@
-.menu__logo {
-   max-width: 176px;
-   margin: 0 15px 0 0;
-}
-@media all and (max-width: 452px) {
-   .menu__logo {
-      max-width: 142px;
-   }
-}

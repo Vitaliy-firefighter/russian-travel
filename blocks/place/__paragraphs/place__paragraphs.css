@@ -1,0 +1,5 @@
+@media all and (max-width: 452px) {
+  .place__paragraphs {
+    margin: 0 16px;
+  }
+}

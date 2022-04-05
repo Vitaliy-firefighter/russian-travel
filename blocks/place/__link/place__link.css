@@ -6,11 +6,11 @@
   transition: opacity .2s;
 }
 .place__link:hover {
-  opacity: .3;
+  opacity: .8;
 }
 .place__link:focus {
   outline: none;
-  color: rgba(255, 255, 255, .3);
+  color: rgba(255, 255, 255, .8);
   border: 1px solid #fff;
   border-radius: 5px;
 }

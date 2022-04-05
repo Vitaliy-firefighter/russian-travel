@@ -4,11 +4,11 @@
   transition: opacity .2s;
 }
 .nav__link:hover {
-  opacity: 0.3;
+  opacity: .8;
 }
 .nav__link:focus {
   outline: none;
   border: 1px solid #fff;
   border-radius: 5px;
-  color: rgba(255, 255, 255, .3);
+  color: rgba(255, 255, 255, .8);
 }

@@ -11,7 +11,7 @@
     padding: 88px 24px 0;
   }
 }
-@media all and (max-width: 452px) {
+@media all and (max-width: 740px) {
   .places {
     padding: 64px 0 0;
   }

@@ -41,6 +41,9 @@
 /* ПОДКЛЮЧАЕМ LEAD__SUBTITLE  */
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 
+/* ПОДКЛЮЧАЕМ LEAD__FIGURE  */
+@import url(../blocks/lead/__figure/lead__figure.css);
+
 /* ПОДКЛЮЧАЕМ LEAD__IMAGE  */
 @import url(../blocks/lead/__image/lead__image.css);
 
@@ -134,6 +137,9 @@
 /* ПОДКЛЮЧАЕМ FOOTER  */
 @import url(../blocks/footer/footer.css);
 
+/* ПОДКЛЮЧАЕМ FFOTER__NAV  */
+@import url(../blocks/footer/__nav/footer__nav.css);
+
 /* ПОДКЛЮЧАЕМ NAV  */
 @import url(../blocks/nav/nav.css);
 
@@ -146,8 +152,8 @@
 /* ПОДКЛЮЧАЕМ NAV-LINK  */
 @import url(../blocks/nav/__link/nav__link.css);
 
-/* ПОДКЛЮЧАЕМ NAV-AUTHOR  */
-@import url(../blocks/nav/__author/nav__author.css);
+/* ПОДКЛЮЧАЕМ FOOTER-AUTHOR  */
+@import url(../blocks/footer/__author/footer__author.css);
 
 
 

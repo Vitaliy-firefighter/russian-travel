@@ -1,8 +1,10 @@
-.nav {
+.footer__nav {
   display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 @media all and (max-width: 540px) {
-  .nav {
+  .footer__nav {
     flex-direction: column;
   }
 }

@@ -17,7 +17,7 @@
     gap: 48px 28px;
   }
 }
-@media all and (max-width: 631px) {
+@media all and (max-width: 740px) {
   .place {
     grid-template-columns: repeat(auto-fit, 100%);
     gap: 32px;
@@ -31,7 +31,7 @@
     margin: 0 0 73px;
   }
 }
-@media all and (max-width: 452px) {
+@media all and (max-width: 740px) {
   .place:not(:last-child) {
     margin: 0 0 50px;
   }
